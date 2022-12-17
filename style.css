@@ -226,6 +226,10 @@ input#check{
     background-position: center;
 }
 
+.wrap-title-section{
+    text-align: center;
+}
+
 .hero-home-page{
     height: 90vh;
     display: flex;
