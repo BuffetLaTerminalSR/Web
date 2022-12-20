@@ -332,8 +332,8 @@ wrap-hero-home-page p{
 
 /* Menu Restaurante */
 .column-3{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display:grid ;
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 1rem;
     row-gap: 1rem;
 }
